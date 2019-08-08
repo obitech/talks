@@ -11,7 +11,7 @@ Date|Talk|Location|Slides
 
 [1]: https://www.devopsdays.org/events/2018-berlin/program/alexander-j-knipping/
 [2]: https://www.devopsdays.org/events/2018-berlin
-[3]: slides/2018_09_12_2018_09_12_dml_ddb_2018.pdf
+[3]: slides/2018_09_12_dml_ddb.pdf
 [4]: github.com/obitech/talks
 [5]: https://www.meetup.com/Leipzig-Artificial-Intelligence-Deep-Learning-Meetup/events/255161165/
 [6]: https://www.meetup.com/Leipzig-Artificial-Intelligence-Deep-Learning-Meetup/
@@ -22,6 +22,6 @@ Date|Talk|Location|Slides
 [11]: https://www.meetup.com/de-DE/Kubernetes-Nurnberg/events/258266045/
 [12]: slides/2019_02_13_mo_mn.pdf
 [13]: https://noris-event.de/nuedigital/#day2
-[14]: slides/2019_07_13_cno_nuedigital.pdf
+[14]: slides/2019_07_19_cno_nuedigital.pdf
 [15]: https://www.meetup.com/de-DE/Kubernetes-Nurnberg/
 [16]: https://nuernberg.digital/festival/
