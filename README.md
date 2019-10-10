@@ -8,6 +8,8 @@ Date|Talk|Location|Slides
 05/2019|Verteilte Anwendungen: Microservices transparent überwachen|[heise.de/ix][8] (print)|[Link][10]
 2019-02-13|[Microservice Observability with Jaeger, ELK and Prometheus][11]|[Kubernetes & CNCF Meetup Nuremberg][15]|[Link][12]
 2019-07-19|[Cloud Native Observability][13]|[Nuremberg Digital Festival][16]|[Link][14]
+2019-10-09|[Container & Kubernetes Networking 101][17]|[Kubernetes & CNCF Meetup
+Nuremberg][15]|[Link][18]
 
 [1]: https://www.devopsdays.org/events/2018-berlin/program/alexander-j-knipping/
 [2]: https://www.devopsdays.org/events/2018-berlin
@@ -25,3 +27,6 @@ Date|Talk|Location|Slides
 [14]: slides/2019_07_19_cno_nuedigital.pdf
 [15]: https://www.meetup.com/de-DE/Kubernetes-Nurnberg/
 [16]: https://nuernberg.digital/festival/
+[17]: https://www.meetup.com/Kubernetes-Nurnberg/events/265279163/
+[18]: slides/2019_10_09_kubernetes_networking_101.pdf
+
