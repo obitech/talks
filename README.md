@@ -9,6 +9,7 @@ Date|Talk|Location|Slides
 2019-02-13|[Microservice Observability with Jaeger, ELK and Prometheus][11]|[Kubernetes & CNCF Meetup Nuremberg][15]|[Link][12]
 2019-07-19|[Cloud Native Observability][13]|[Nuremberg Digital Festival][16]|[Link][14]
 2019-10-09|[Container & Kubernetes Networking 101][17]|[Kubernetes & CNCF Meetup Nuremberg][15]|[Link][18]
+2019-12-11|[Grafana Loki: How to Make Sense of Your Logs][19]|[Kubernetes & CNCF Meetup Nuremberg][15]|[Link][20]
 
 [1]: https://www.devopsdays.org/events/2018-berlin/program/alexander-j-knipping/
 [2]: https://www.devopsdays.org/events/2018-berlin
@@ -28,4 +29,5 @@ Date|Talk|Location|Slides
 [16]: https://nuernberg.digital/festival/
 [17]: https://www.meetup.com/Kubernetes-Nurnberg/events/265279163/
 [18]: slides/2019_10_09_kubernetes_networking_101.pdf
-
+[19]: https://www.meetup.com/Kubernetes-Nurnberg/events/266915323/
+[20]: slides/2019_12_11_grafana_loki.pdf
