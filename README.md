@@ -10,6 +10,7 @@ Date|Talk|Location|Slides
 2019-07-19|[Cloud Native Observability][13]|[Nuremberg Digital Festival][16]|[Link][14]
 2019-10-09|[Container & Kubernetes Networking 101][17]|[Kubernetes & CNCF Meetup Nuremberg][15]|[Link][18]
 2019-12-11|[Grafana Loki: How to Make Sense of Your Logs][19]|[Kubernetes & CNCF Meetup Nuremberg][15]|[Link][20]
+2020-08-20|[ComponentConfig Technical Challenges][21]|[KubeCon EU Virtual 2020][22]|[Recording][23]
 
 [1]: https://www.devopsdays.org/events/2018-berlin/program/alexander-j-knipping/
 [2]: https://www.devopsdays.org/events/2018-berlin
@@ -31,3 +32,6 @@ Date|Talk|Location|Slides
 [18]: slides/2019_10_09_kubernetes_networking_101.pdf
 [19]: https://www.meetup.com/Kubernetes-Nurnberg/events/266915323/
 [20]: slides/2019_12_11_grafana_loki.pdf
+[21]: https://kccnceu20.sched.com/event/Zeun
+[22]: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
+[23]: https://www.youtube.com/watch?v=8azcZdKFamc
