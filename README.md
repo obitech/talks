@@ -35,4 +35,4 @@ Date|Talk|Location|Slides
 [21]: https://kccnceu20.sched.com/event/Zeun
 [22]: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
 [23]: https://www.youtube.com/watch?v=8azcZdKFamc
-[24]: https://static.sched.com/hosted_files/kccnceu20/9c/ComponentConfig Technical Challenges (Mike Taufen %26 Alexander Knipping).pdf
+[24]: https://static.sched.com/hosted_files/kccnceu20/9c/ComponentConfig%20Technical%20Challenges%20(Mike%20Taufen%20%26%20Alexander%20Knipping).pdf
